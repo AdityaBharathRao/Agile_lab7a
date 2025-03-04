@@ -20,4 +20,4 @@ jobs:
         python -m pip install --upgrade pip
 
     - name: Run Python script
-      run: python gfg.py
+      run: python LabExercise1.py
